@@ -14,45 +14,45 @@ Ces informations sont prises de <https://github.com/handlino/CompassApp/wiki/Use
 
 ### Mac:
 
-* Open "Terminal.app"
-* Create folder:
+* Ouvrir "Terminal.app"
+* Créer le répertoire :
 
-    mkdir -p ~/.compass/extensions
+    mkdir -p ~/.compass/extensions/compass-knacss
 
-* Open the folder in Finder:
+* Ouvrir le répertoire dans Finder:
 
     open ~/.compass/extensions
 
-* Download extensions on Github, unzip it, and throw it into the folder.
-* Restart Compass.app
+* Télécharger l'extension sur Github, la dézipper, et la copier dans le répertoire.
+* Redémarrer Compass.app
 
 ### Windows:
 
-* Open "Command Prompt"
-* Create folder:
+* Ouvrir une "Invite de commande"
+* Créer le répertoire:
 
-    mkdir "%HOMEPATH%\.compass\extensions"
+    mkdir "%HOMEPATH%\.compass\extensions\compass-knacss"
 
-* Open the folder in Explorer:
+* Ouvrir le répertoire avec l'Explorateur :
 
-    c:\WINDOWS\explorer.exe "%HOMEPATH%\.compass\extensions"
+    c:\WINDOWS\explorer.exe "%HOMEPATH%\.compass\extensions\compass-knacss"
 
-* Download extensions on Github, unzip it, and throw it into the folder.
-* Restart Compass.app
+* Télécharger l'extension sur Github, la dézipper, et la copier dans le répertoire.
+* Redémarrer Compass.app
 
 ### Linux:
 
-* Open "Terminal"
-* Create folder:
+* Ouvrir un "Terminal"
+* Créer le répertoire:
 
-    mkdir -p ~/.compass/extensions
+        mkdir -p ~/.compass/extensions/compass-knacss
 
-* Open the folder in Nautilus:
+* Ouvrir le répertoire dans Nautilus:
 
-    nautilus ~/.compass/extensions
+    nautilus ~/.compass/extensions/compass-knacss
 
-* Download extensions on Github, unzip it, and throw it into the folder.
-* Restart Compass.app
+* Télécharger l'extension sur Github, la dézipper, et la copier dans le répertoire.
+* Redémarrer Compass.app
 
 
 Création de projet avec compass
