@@ -17,11 +17,11 @@ Ces informations sont prises de <https://github.com/handlino/CompassApp/wiki/Use
 * Ouvrir "Terminal.app"
 * Créer le répertoire :
 
-    mkdir -p ~/.compass/extensions/compass-knacss
+        mkdir -p ~/.compass/extensions/compass-knacss
 
 * Ouvrir le répertoire dans Finder:
 
-    open ~/.compass/extensions
+        open ~/.compass/extensions
 
 * Télécharger l'extension sur Github, la dézipper, et la copier dans le répertoire.
 * Redémarrer Compass.app
@@ -31,11 +31,11 @@ Ces informations sont prises de <https://github.com/handlino/CompassApp/wiki/Use
 * Ouvrir une "Invite de commande"
 * Créer le répertoire:
 
-    mkdir "%HOMEPATH%\.compass\extensions\compass-knacss"
+        mkdir "%HOMEPATH%\.compass\extensions\compass-knacss"
 
 * Ouvrir le répertoire avec l'Explorateur :
 
-    c:\WINDOWS\explorer.exe "%HOMEPATH%\.compass\extensions\compass-knacss"
+        c:\WINDOWS\explorer.exe "%HOMEPATH%\.compass\extensions\compass-knacss"
 
 * Télécharger l'extension sur Github, la dézipper, et la copier dans le répertoire.
 * Redémarrer Compass.app
